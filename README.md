@@ -9,6 +9,12 @@ Le projet met l’accent sur :
 
 ---
 
+## 📄 Documentation
+
+- [Project Requirements](./REQUIREMENTS.md)
+
+---
+
 ## 🖥️ Aperçu
 
 - Messages utilisateur à droite
