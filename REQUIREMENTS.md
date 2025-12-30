@@ -1,8 +1,3 @@
----
-
-## ✅ REQUIREMENTS.md
-
-```md
 # Requirements – Mistral Chat
 
 ## 🎯 Objectif
@@ -13,29 +8,29 @@ Créer une interface de chat web permettant de dialoguer avec un modèle Mistral
 
 ## ⚙️ Fonctionnels
 
-- [x] Envoi de messages utilisateur
-- [x] Réception des réponses de l’IA
-- [x] Historique de conversation visible
-- [x] Envoi avec la touche Entrée
-- [x] Scroll automatique vers le dernier message
-- [x] Gestion des erreurs API
+- Envoi de messages utilisateur
+- Réception des réponses de l’IA
+- Historique de conversation visible
+- Envoi avec la touche Entrée
+- Scroll automatique vers le dernier message
+- Gestion des erreurs API
 
 ---
 
 ## 🎨 UI / UX
 
-- [x] Messages alignés gauche / droite
-- [x] Couleurs personnalisées (Mistral)
-- [x] Typographie simple et lisible (Arial)
-- [x] Interface responsive
-- [x] Design épuré
+- Messages alignés gauche / droite
+- Couleurs personnalisées (Mistral)
+- Typographie simple et lisible (Arial)
+- Interface responsive
+- Design épuré
 
 ---
 
 ## 🔐 Sécurité
 
-- [x] Clé API stockée côté serveur uniquement
-- [x] Aucun secret exposé au client
+- Clé API stockée côté serveur uniquement
+- Aucun secret exposé au client
 
 ---
 
